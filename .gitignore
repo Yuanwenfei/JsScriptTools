@@ -1,0 +1,9 @@
+# .NET build output
+bin/
+obj/
+*.user
+*.suo
+.vs/
+
+# Local scratch / backups
+*.bak
